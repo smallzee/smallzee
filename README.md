@@ -38,6 +38,7 @@ I'm Fullstack developer focus my study in PhP, Laravel, Codeigniter, Flutter and
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![livewire](https://img.shields.io/badge/livewire-0769AD?style=for-the-badge&logo=livewire&logoColor=white)
 
 ### Mobile Development
 
