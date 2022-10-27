@@ -1,6 +1,3 @@
-
-Hi 👋 I am Akeem Adewale Basit
-
 I am Experts in PHP/MySQL,HTML5, CSS, Bootsrap, Jquery, Ajax, Wordpress, Php dynamic Admin Web Portals, Job Portals, and android development with 5+ years experienced working as full time freelancer. 100% satisfaction and fully dedicated to your projects have worked for two large IT companies and presently , i am running my own successful web business for the past 2 years.
 
 ### 🤝 Connect with me
