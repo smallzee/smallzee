@@ -1,7 +1,7 @@
 
 Hi 👋 I am Akeem Adewale Basit
 
-I'm Fullstack developer focus my study in PhP, Laravel, Codeigniter, Flutter and so on and. Loved in collaborate to community and learning each day plus.
+I am Experts in PHP/MySQL,HTML5, CSS, Bootsrap, Jquery, Ajax, Wordpress, Php dynamic Admin Web Portals, Job Portals, and android development with 5+ years experienced working as full time freelancer. 100% satisfaction and fully dedicated to your projects have worked for two large IT companies and presently , i am running my own successful web business for the past 2 years.
 
 ### 🤝 Connect with me
 
