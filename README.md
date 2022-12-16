@@ -57,13 +57,3 @@ I am Experts in PHP/MySQL,HTML5, CSS, Bootsrap, Jquery, Ajax, Wordpress, Php dyn
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg"/>
-
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
-
