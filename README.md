@@ -1,4 +1,5 @@
-I am Experts in PHP/MySQL,HTML5, CSS, Bootsrap, Jquery, Ajax, Wordpress, Php dynamic Admin Web Portals, Job Portals, and android development with 5+ years experienced working as full time freelancer. 100% satisfaction and fully dedicated to your projects have worked for two large IT companies and presently , i am running my own successful web business for the past 2 years.
+Passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups and team building. I'm not language specific, rather I pick the most suitable tool depending on the problem. I've worked professionally on production applications using PHP, Laravel, PHPUnit, iQuery, Javascript,, Mysal, Bootstrap, Heroku, Flutter,Laravel Livewire. I have great interest in software architecture and enjoy learning different languages to pick up different styles. I greatly value clean code, and also enjoy working on non tech aspects of a project. I'm always excited to work on cool projects, with cool teams where I can offer and receive knowledge. Above all, I love web development and software in general, and I always seek to learn and improve.
+
 
 ### 🤝 Connect with me
 
