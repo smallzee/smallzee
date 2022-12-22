@@ -56,4 +56,4 @@ Passionate, entrepreneurial, self-driven Software Developer with a special inter
 ### Design
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<!-- <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg"/> -->
+<img src="[https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)"/>
