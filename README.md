@@ -1,3 +1,13 @@
+<h1 align="center">Hi. I'm Akee Adewale Basit</h1>
+
+<p align="center">
+<a href="https://linkedin.com/in/akeem-a-a8582617a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/linkedin.svg" alt="linkedin/pranavms13" height="30" width="40" /></a>
+<a href="https://hackerrank.com/pranavms13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/hackerrank.svg" alt="hackerrank/pranavms13" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/profile/269741" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/hackthebox.svg" alt="hackthebox/pranavms13" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/pranavms13/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6/icons/steam.svg" alt="steam/pranavms13" height="30" width="40" /></a>
+</p>
+
+
 Passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups and team building. I'm not language specific, rather I pick the most suitable tool depending on the problem. I've worked professionally on production applications using PHP, Laravel, PHPUnit, JQuery, Javascript,, Mysql, Bootstrap, Heroku, Flutter,Laravel Livewire. I have great interest in software architecture and enjoy learning different languages to pick up different styles. I greatly value clean code, and also enjoy working on non tech aspects of a project. I'm always excited to work on cool projects, with cool teams where I can offer and receive knowledge. Above all, I love web development and software in general, and I always seek to learn and improve.
 
 
