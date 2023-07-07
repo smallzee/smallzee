@@ -1,9 +1,9 @@
 <h1 align="center">Hi. I'm Akee Adewale Basit</h1>
 
 
-<p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
+<p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p>
 
-<h4 align="center">I like working on new ideas for Web3/PHP and all others language</h4>
+<h4 align="center">I like working on new ideas</h4>
 
 # 💫 About Me:
 
