@@ -17,11 +17,6 @@
 
 Passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups and team building. I'm not language specific, rather I pick the most suitable tool depending on the problem. I've worked professionally on production applications using PHP, Laravel, PHPUnit, JQuery, Javascript,, Mysql, Bootstrap, Heroku, Flutter,Laravel Livewire. I have great interest in software architecture and enjoy learning different languages to pick up different styles. I greatly value clean code, and also enjoy working on non tech aspects of a project. I'm always excited to work on cool projects, with cool teams where I can offer and receive knowledge. Above all, I love web development and software in general, and I always seek to learn and improve.
 
-
-### 🤝 Connect with me
-
-
-
 # 💻 Tech Stack:
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
