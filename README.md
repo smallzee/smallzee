@@ -9,7 +9,7 @@ Passionate, entrepreneurial, self-driven Software Developer with a special inter
 
 # 💫 Connect with me:
 
-<table align="center">
+<table style="border-collapse:collapse">
   <tr>
     <td><a href="https://www.linkedin.com/in/akeem-a-a8582617a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
       <a href="https://wa.me/2349069588201?text=Hello smallzee, am contacting you from github" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
