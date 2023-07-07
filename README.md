@@ -3,7 +3,7 @@
 
 <p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p>
 
-<h5 align="center">I’m Software Engineer focus on my study in <br> PHP/Laravel/Flutter/Reactjs/ReactNative/Nodejs/MySQL/Postgres <br>  Loved in collaborate to community and learning each day</h4>
+<h5 align="center" style="line:height:30px">I’m Software Engineer focus on my study in <br> PHP/Laravel/Flutter/Reactjs/ReactNative/Nodejs/MySQL/Postgres <br>  Loved in collaborate to community and learning each day</h4>
 
 # 💫 About Me:
 
