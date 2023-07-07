@@ -3,6 +3,8 @@
 
 <p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Hello" width="225" height="225"/></a></p><br>
 
+<h4 align="center">I like working on new ideas for Web3/PHP and all others language</h4>
+
 # 💫 About Me:
 
 Passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups and team building. I'm not language specific, rather I pick the most suitable tool depending on the problem. I've worked professionally on production applications using PHP, Laravel, PHPUnit, JQuery, Javascript,, Mysql, Bootstrap, Heroku, Flutter,Laravel Livewire. I have great interest in software architecture and enjoy learning different languages to pick up different styles. I greatly value clean code, and also enjoy working on non tech aspects of a project. I'm always excited to work on cool projects, with cool teams where I can offer and receive knowledge. Above all, I love web development and software in general, and I always seek to learn and improve.
