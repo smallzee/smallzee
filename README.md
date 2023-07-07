@@ -17,7 +17,6 @@ Passionate, entrepreneurial, self-driven Software Developer with a special inter
       <a href="https://wa.me/2349069588201?text=Hello smallzee, am contacting you from github" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
       <a href="https://twitter.com/heismallzee" target="_blank"><img src="https://img.shields.io/badge/-twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/heismallzy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-            <a href="https://www.instagram.com/heismallzy" target="_blank"><img src="https://img.shields.io/badge/threading%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </td>
   </tr>
 </table>
