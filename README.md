@@ -21,7 +21,7 @@ Passionate, entrepreneurial, self-driven Software Developer with a special inter
   </tr>
 </table>
 
-# 💻 Tech Stack:
+### Stack 
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
