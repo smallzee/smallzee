@@ -5,11 +5,11 @@
 
 <p align="center">I’m Software Engineer focus on my study in <br> PHP/Laravel/Flutter/Reactjs/ReactNative/Nodejs/MySQL/Postgres <br>  Loved in collaborate to community and learning each day</p>
 
-# About Me:
+#### About Me
 
 Passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups and team building. I'm not language specific, rather I pick the most suitable tool depending on the problem. I've worked professionally on production applications using PHP, Laravel, PHPUnit, JQuery, Javascript,, Mysql, Bootstrap, Heroku, Flutter,Laravel Livewire. I have great interest in software architecture and enjoy learning different languages to pick up different styles. I greatly value clean code, and also enjoy working on non tech aspects of a project. I'm always excited to work on cool projects, with cool teams where I can offer and receive knowledge. Above all, I love web development and software in general, and I always seek to learn and improve.
 
-# Connect with me:
+### Connect with me
 
 <table >
   <tr>
