@@ -1,4 +1,4 @@
-<h1 align="center">Hi. I'm Akee Adewale Basit</h1>
+<h1 align="center">Hi. I'm Akeem Adewale Basit</h1>
 
 
 <p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/20054902-540794643_12-s5-v1.png?transparent=1&palette=1&scale=2" alt="Akeem Adewale Basit" width="225" height="225"/></a></p>
