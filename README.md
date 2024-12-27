@@ -1,8 +1,5 @@
 <h1 align="center">Hi. I'm Akeem Adewale Basit</h1>
 
-
-<p align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/55999262?v=4" alt="Akeem Adewale Basit" width="100" height="100"/></a></p>
-
 <p align="center">I’m Software Engineer focus on my study in <br> PHP/Laravel/Flutter/Reactjs/ReactNative/Nodejs/MySQL/Postgres <br>  Loved in collaborate to community and learning each day</p>
 
 ## About Me
