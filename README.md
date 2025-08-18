@@ -1,6 +1,6 @@
 ## About Me
 
-Passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups and team building. I'm not language specific, rather I pick the most suitable tool depending on the problem. I've worked professionally on production applications using PHP, Laravel, PHPUnit, JQuery, Javascript,, Mysql, Bootstrap, Heroku, Flutter,Laravel Livewire. I have great interest in software architecture and enjoy learning different languages to pick up different styles. I greatly value clean code, and also enjoy working on non tech aspects of a project. I'm always excited to work on cool projects, with cool teams where I can offer and receive knowledge. Above all, I love web development and software in general, and I always seek to learn and improve.
+Self-driven Software Developer passionate about startups, clean code, and team collaboration. Experienced in PHP, Laravel, VueJs, jQuery, AlphineJS, Nodejs, ExpressJS, JavaScript, MySQL, Postgres, Bootstrap, Tailwind Css, Heroku, Flutter, and Laravel Livewire, with a strong focus on software architecture and continuous learning.
 
 ## Connect with me
 
