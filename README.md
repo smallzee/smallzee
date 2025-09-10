@@ -1,6 +1,6 @@
 ## About Me
 
-Self-driven Software Developer passionate about startups, clean code, and team collaboration. Experienced in PHP, Laravel, VueJs, jQuery, AlphineJS, Nodejs, ExpressJS, JavaScript, MySQL, Postgres, Bootstrap, Tailwind Css, Heroku, Flutter, and Laravel Livewire, with a strong focus on software architecture and continuous learning
+Self-driven Software Developer passionate about startups, clean code, and team collaboration. Experienced in PHP, Laravel, VueJs, jQuery, AlphineJS, Nodejs, ExpressJS, JavaScript, MySQL, Postgres, Bootstrap, Tailwind Css, Heroku, Flutter, and Laravel Livewire, with a strong focus on software architecture and continuous learning.
 
 ## Connect with me
 
@@ -37,8 +37,8 @@ Self-driven Software Developer passionate about startups, clean code, and team c
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![AlpineJs](https://img.shields.io/badge/alpine.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-FF2D20?style=for-the-badge&logo=codeigniter&logoColor=white)
+
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![livewire](https://img.shields.io/badge/livewire-0769AD?style=for-the-badge&logo=livewire&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-6DA55F?style=for-the-badge&logo=Tailwind&logoColor=white) 
