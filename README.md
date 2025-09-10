@@ -32,6 +32,7 @@ Self-driven Software Developer passionate about startups, clean code, and team c
 ### Frameworks/Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![InertiaJs](https://img.shields.io/badge/Inertia-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AngularJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![AlpineJs](https://img.shields.io/badge/alpine.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
