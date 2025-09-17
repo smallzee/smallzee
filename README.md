@@ -39,10 +39,10 @@ Self-driven Software Developer passionate about startups, clean code, and team c
 
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![livewire](https://img.shields.io/badge/livewire-0769AD?style=for-the-badge&logo=livewire&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-007ACC?style=for-the-badge&logo=Tailwind&logoColor=white) 
-![NodeJs](https://img.shields.io/badge/NodeJs-007ACC?style=for-the-badge&logo=node.js&logoColor=white) 
-![ExpressJs](https://img.shields.io/badge/ExpressJs-007ACC?style=for-the-badge&logo=express&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=Tailwind&logoColor=white) 
+![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJs](https://img.shields.io/badge/ExpressJs-000000?style=for-the-badge&logo=express&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Mobile Development
 
